@@ -8,6 +8,16 @@ A python-kivy desktop application to write in your own handwriting using this so
 <br />
 <br />
 
+# How to use
+<p align="center">
+  <a href="https://youtu.be/ZbnSrvUp_dg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/2560px-YouTube_Logo_%282013-2017%29.svg.png" height="50px"/>
+  </a>
+</p>
+<br />
+<br />
+
+# Download
 <p align="center">
   <a href="https://github.com/Satyam-2001/Ink-Application/releases/download/v0.1/Ink.zip">
     <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Image-Background.png" height="50px"/>
