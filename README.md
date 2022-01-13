@@ -16,7 +16,6 @@ Click on the YouTube icon to watch the explanation and learn the usage of applic
   </a>
 </p>
 <br />
-<br />
 
 # Download
 <p align="center">
