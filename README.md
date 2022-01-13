@@ -8,7 +8,8 @@ A python-kivy desktop application to write in your own handwriting using this so
 <br />
 <br />
 
-# How to use
+# How to use??
+Click on the YouTube icon to watch the explanation and learn the usage of application.
 <p align="center">
   <a href="https://youtu.be/ZbnSrvUp_dg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/2560px-YouTube_Logo_%282013-2017%29.svg.png" height="50px"/>
