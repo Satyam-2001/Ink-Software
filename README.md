@@ -11,7 +11,7 @@ A python-kivy desktop application to write in your own handwriting using this so
 ## Settings <br />
 
 <p align="center">
-  <img src="home/satyam/Pictures/Setting.png"/>
+  <img src="https://user-images.githubusercontent.com/88069082/149468287-a1f88eae-10ad-4efa-a189-41f846587555.png"/>
 </p>
 
 # How to use??
