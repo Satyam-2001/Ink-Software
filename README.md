@@ -8,6 +8,12 @@ A python-kivy desktop application to write in your own handwriting using this so
 <br />
 <br />
 
+## Settings <br />
+
+<p align="center">
+  <img src="home/satyam/Pictures/Setting.png"/>
+</p>
+
 # How to use??
 Click on the YouTube icon to watch the explanation and learn the usage of application.
 <p align="center">
