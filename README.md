@@ -1,4 +1,4 @@
-# Ink-Application
+# Ink-Software
 A python-kivy desktop application to write in your own handwriting using this software from docx.
 <br />
 <br />
